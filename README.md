@@ -1,5 +1,5 @@
-# <div align="center">👋 Xin chào, tôi là Đoàn Thái Sơn</div>
-<div align="center"><h3>Final-year student với niềm đam mê JavaScript</h3></div>
+# <div align="center">👋 Hi there, I'm Đoàn Thái Sơn</div>
+<div align="center"><h3>Final-year student with a passion for JavaScript</h3></div>
 
 <div align="center">
   
@@ -14,7 +14,7 @@
   
 </div>
 
-## 💻 Kỹ năng & Công nghệ
+## 💻 Skills & Technologies
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -53,10 +53,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bisoo12300&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## 🔗 Kết nối với tôi
+## 🔗 Connect with me
 <div align="center">
   <a href="https://linkedin.com/in/doanthaison" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <!-- Có thể thêm các nền tảng khác ở đây -->
+  <!-- You can add more platforms here -->
 </div>
